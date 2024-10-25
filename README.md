@@ -22,7 +22,5 @@ I am a junior full stack developer with a strong background in illustration and 
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fernando-Nieva&layout=compact&langs_count=8&theme=merko">
   </a>
 </p>
-![enter image description here](https://github-readme-stats.vercel.app/api?username=Fernando-Nieva&show_icons=true&theme=merko)
-
 
 ![snake gif](https://github.com/Fernando-Nieva/Fernando-Nieva/blob/output/github-snake-dark.svg)
