@@ -1,16 +1,13 @@
-## Hi there 👋
+  <p align="center">
+  <h2 align="center">Hey welcome! I'm Fernando Nieva</h2>
+<p align="center">
+  <img alt="Descripción de la imagen" src="https://github.com/Fernando-Nieva/Fernando-Nieva/blob/main/banner.png?raw=true" width="1000">
+</p>
 
-<!--
-**Fernando-Nieva/Fernando-Nieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###  💀&nbsp;About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻**Junior Full Stack Developer with a Passion for Design and Animation.**  
+
+I am a junior full stack developer with a strong background in illustration and animation, which allows me to bring a unique visual approach to my development projects. I am passionate about combining design skills with programming to create visually appealing and functional applications. Although I am still in the continuous learning phase, I am motivated to grow professionally, integrate new technologies and take my projects to the next level, ready to bring creativity and quality to every line of code!
+
