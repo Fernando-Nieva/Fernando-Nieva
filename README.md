@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Fernando Nieva, Full Stack Developer" width="100%">
+  <img src="banner-fullstack.png" alt="Fernando Nieva, Full Stack Developer" width="100%">
 </p>
 
 <p align="center">
